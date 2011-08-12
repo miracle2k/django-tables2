@@ -8,3 +8,5 @@
 /build/
 /docs/_build/
 /example/database.sqlite
+
+.DS_Store
